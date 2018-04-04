@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Bower
+/content/libs
+
+# Environment
+.env
+
+# VSCode
+.vscode/*
+
+# Misc
+typings/
+
+# Error outputs
+.sh.exe.stackdump
+sh.exe.stackdump
+bash.exe.stackdump
